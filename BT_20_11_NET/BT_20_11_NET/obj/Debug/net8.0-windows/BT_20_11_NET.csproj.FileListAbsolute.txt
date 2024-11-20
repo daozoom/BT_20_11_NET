@@ -27,3 +27,4 @@ D:\Downloads\BT_20_11_NET\BT_20_11_NET\BT_20_11_NET\obj\Debug\net8.0-windows\BT_
 D:\Downloads\BT_20_11_NET\BT_20_11_NET\BT_20_11_NET\obj\Debug\net8.0-windows\ref\BT_20_11_NET.dll
 D:\Downloads\BT_20_11_NET\BT_20_11_NET\BT_20_11_NET\obj\Debug\net8.0-windows\BT_20_11_NET.KhachHang.resources
 D:\Downloads\BT_20_11_NET\BT_20_11_NET\BT_20_11_NET\obj\Debug\net8.0-windows\BT_20_11_NET.SanPham.resources
+D:\Downloads\BT_20_11_NET\BT_20_11_NET\BT_20_11_NET\obj\Debug\net8.0-windows\BT_20_11_NET.sourcelink.json

@@ -63,9 +63,6 @@ namespace BT_20_11_NET
                 return;
             }
 
-            // Đảm bảo tbIDDH không thể chỉnh sửa
-            tbIDDH.Enabled = false;
-
             string query = "UPDATE DonHang SET khachhangid=@khachhangid, sanphamid=@sanphamid, soluong=@soluong, ngaymua=@ngaymua WHERE id=@id";
 
             dao_DB.ExecuteNonQuery(query,
@@ -90,7 +87,7 @@ namespace BT_20_11_NET
         private void btnDelete_Click(object sender, EventArgs e)
         {
             string query = "DELETE FROM DonHang WHERE id=@id";
-            dao_DB.ExecuteNonQuery(query, new SqlParameter("@id", tbIDKH.Text));
+            dao_DB.ExecuteNonQuery(query, new SqlParameter("@id", tbIDDH.Text));
             LoadDonHang();
             MessageBox.Show("Xóa đơn hàng thành công!");
 
