@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "btzllKJovaaQoVm6MnHWSh5kKoemKQtPT7ZKNsgiKdmYJl8HTN+Bcd/jbcReLeQZWISgB2CXI8LM9BOQfWHHIA==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\BT_20_11_NET\\BT_20_11_NET\\BT_20_11_NET\\BT_20_11_NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DAOZOOM\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\DAOZOOM\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\DAOZOOM\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\DAOZOOM\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\DAOZOOM\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
